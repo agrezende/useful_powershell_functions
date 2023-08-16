@@ -388,7 +388,7 @@
                     }
                 }
             } else {
-                Write-Warning "Module manifest file won't be processed because more then one were found."
+                Write-Warning "Module manifest file won't be processed because more than one were found."
             }
         } else {
             Write-Verbose "No module manifest file found"
